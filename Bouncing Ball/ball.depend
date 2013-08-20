@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1353754660 source:c:\users\momma\documents\c++ stuff\ball\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1353754660 c:\users\momma\documents\c++ stuff\ball\resource.h
+
+1376967582 source:c:\users\momma\documents\c++ stuff\bouncing ball\main.cpp
+	<windows.h>
+
+1353754660 source:c:\users\momma\documents\c++ stuff\bouncing ball\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1353754660 c:\users\momma\documents\c++ stuff\bouncing ball\resource.h
+
